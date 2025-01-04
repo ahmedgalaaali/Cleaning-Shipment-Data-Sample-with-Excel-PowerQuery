@@ -15,7 +15,7 @@ This projects was accomplished to showcase my abilities in cleaning and preparin
     - The second column which will later express the `Ship mode` column.
     - And finally, the values of the pivot table scattered all around, these are so useful and are considered the `Sales` column.
 2. It seemed like each order ID had **only one value**, this value expresses the ship mode as it's in the same column of its name, and also the segment as the value exists in the same highlighted segment.
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/7782b487-3c27-4d13-9bff-c46a4b805097)
 ## Cleaning and Preparation
 By inspecting and understanding the data, I loaded the range into Excel PowerQuery; where I will make the data look better and smoother.
 1. **Removed the top row**: this ensures that the second row becomes the first for the next step.
@@ -36,11 +36,11 @@ By inspecting and understanding the data, I loaded the range into Excel PowerQue
 ## Data Analysis
 With the power of PivotTables, I created meany of them to see what the data sample would like to show us.
 1. _Consumers are the top customers of the shipment service with total **444** orders shown in the sample.
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/c30a8811-4ade-46cd-bab6-03cec1954127)
 2. On the other hand the average price paid by _consumers_ is the least, wich explains their interst in dealing with our service.
-![alt text](image-4.png)
+![image](https://github.com/user-attachments/assets/16abf785-0be0-4e24-bca2-716ba76d10ab)
 3. _Consumers_ is also the greatest segment in terms of sales with about half of the values of sales.
-![alt text](image-5.png)
+![image](https://github.com/user-attachments/assets/2ba02c4a-42e2-4394-9285-829300288f07)
 4. When it comes to the _ship mode_ it seems like the _standard class_ is the most selling service with more than half of the sales, it's also the most preferred to all segments.
-![alt text](image-6.png)
-![alt text](image-8.png)
+![image](https://github.com/user-attachments/assets/f8253236-706b-43ae-98f5-9e24996ef8ec)
+![image](https://github.com/user-attachments/assets/c64c8920-e52d-4339-aa9b-32e03b081b22)
