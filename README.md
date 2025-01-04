@@ -36,7 +36,9 @@ By inspecting and understanding the data, I loaded the range into Excel PowerQue
 ## Data Analysis
 With the power of PivotTables, I created meany of them to see what the data sample would like to show us.
 1. _Consumers are the top customers of the shipment service with total **444** orders shown in the sample.
-![image](https://github.com/user-attachments/assets/c30a8811-4ade-46cd-bab6-03cec1954127)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/c30a8811-4ade-46cd-bab6-03cec1954127" alt="Image description" style="display: block; margin: 10 auto;">
+</div>
 2. On the other hand the average price paid by _consumers_ is the least, wich explains their interst in dealing with our service.
 ![image](https://github.com/user-attachments/assets/16abf785-0be0-4e24-bca2-716ba76d10ab)
 3. _Consumers_ is also the greatest segment in terms of sales with about half of the values of sales.
