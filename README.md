@@ -40,9 +40,17 @@ With the power of PivotTables, I created meany of them to see what the data samp
     <img src="https://github.com/user-attachments/assets/c30a8811-4ade-46cd-bab6-03cec1954127" alt="Image description" style="display: block; margin: 10 auto;">
     </div>
 2. On the other hand the average price paid by _consumers_ is the least, wich explains their interst in dealing with our service.
-![image](https://github.com/user-attachments/assets/16abf785-0be0-4e24-bca2-716ba76d10ab)
+    <div align="center">
+    <img src="https://github.com/user-attachments/assets/16abf785-0be0-4e24-bca2-716ba76d10ab" alt="Image description" style="display: block; margin: 10 auto;">
+    </div>
 3. _Consumers_ is also the greatest segment in terms of sales with about half of the values of sales.
-![image](https://github.com/user-attachments/assets/2ba02c4a-42e2-4394-9285-829300288f07)
-4. When it comes to the _ship mode_ it seems like the _standard class_ is the most selling service with more than half of the sales, it's also the most preferred to all segments.
-![image](https://github.com/user-attachments/assets/f8253236-706b-43ae-98f5-9e24996ef8ec)
-![image](https://github.com/user-attachments/assets/c64c8920-e52d-4339-aa9b-32e03b081b22)
+    <div align="center">
+    <img src="https://github.com/user-attachments/assets/2ba02c4a-42e2-4394-9285-829300288f07" alt="Image description" style="display: block; margin: 10 auto;">
+    </div>
+5. When it comes to the _ship mode_ it seems like the _standard class_ is the most selling service with more than half of the sales, it's also the most preferred to all segments.
+    <div align="center">
+    <img src="https://github.com/user-attachments/assets/f8253236-706b-43ae-98f5-9e24996ef8ec" alt="Image description" style="display: block; margin: 10 auto;">
+    </div>
+    <div align="center">
+    <img src="https://github.com/user-attachments/assets/c64c8920-e52d-4339-aa9b-32e03b081b22" alt="Image description" style="display: block; margin: 10 auto;">
+    </div>
