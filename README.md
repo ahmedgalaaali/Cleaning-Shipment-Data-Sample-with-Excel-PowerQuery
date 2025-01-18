@@ -33,6 +33,12 @@ By inspecting and understanding the data, I loaded the range into Excel PowerQue
 8. **Remove non-necessary value**: noticed the presence of grand total values that exist at the bottom of the table, removed them by _remove bottom 12 rows_.
 9. **changed sales data type into currency and sorted by ascending ship mode**
 10. **loaded the clean data into excel worksheet**
+## After-cleaning Results
+The results finally are going to look like this:
+    <div align="center">
+    <img src="![image](https://github.com/user-attachments/assets/702074e2-2913-464a-9a34-0ad1abdd2379)
+" alt="Image description" style="display: block; margin: 10 auto;">
+    </div>
 ## Data Analysis
 With the power of PivotTables, I created meany of them to see what the data sample would like to show us.
 1. _Consumers are the top customers of the shipment service with total **444** orders shown in the sample.
