@@ -3,7 +3,8 @@
 1. [Overview](#overview)
 2. [Data Inspection](#data-inspection)
 3. [Cleaning and Preparation](#cleaning-and-preparation)
-4. [Data Analysis](#data-analysis)
+4. [After-cleaning Results](after-cleaning_results)
+5. [Data Analysis](#data-analysis)
 ## Overview
 This projects was accomplished to showcase my abilities in cleaning and preparing data using Excel PowerQuery and analyzing using simple descriptive data analsysis features in Excel. The [Dirty Data Sample](https://www.kaggle.com/datasets/shivavashishtha/dirty-data-sample) was downloaded from Kaggle.com in the form of a `xlsx` file published by [Shiva Vashishtha](https://www.kaggle.com/shivavashishtha). The excel workbook composed of 2 sheets:
 - `Dirty1`: The actual dirty data that I'm supposed to work on.
