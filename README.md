@@ -36,8 +36,7 @@ By inspecting and understanding the data, I loaded the range into Excel PowerQue
 ## After-cleaning Results
 The results finally are going to look like this:
     <div align="center">
-    <img src="![image](https://github.com/user-attachments/assets/702074e2-2913-464a-9a34-0ad1abdd2379)
-" alt="Image description" style="display: block; margin: 10 auto;">
+    <img src="https://github.com/user-attachments/assets/702074e2-2913-464a-9a34-0ad1abdd2379" alt="Image description" style="display: block; margin: 10 auto;">
     </div>
 ## Data Analysis
 With the power of PivotTables, I created meany of them to see what the data sample would like to show us.
